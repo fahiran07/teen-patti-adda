@@ -1,0 +1,21 @@
+nav{
+    background: #003a92;
+}
+.section-title {
+    background: #e80000;
+    border:  2px solid #f8e78f;
+}
+.mini-with-title{
+    color: #003a92;
+}
+.item-title{
+    color: #454545;
+}
+
+.download-btn{
+    background: #e80000;
+}
+
+.text-dark-red{
+    color: #e80000;
+}
